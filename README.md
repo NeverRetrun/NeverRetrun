@@ -1,7 +1,7 @@
 
 - 🌱 PHP / C
 - 💞️ movie movie movie
-- 📫 493361889@qq.com
+- 📫 crynocry97@gmail.com
 - ✨ https://cvoid.site/
 
 <!---
