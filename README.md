@@ -2,7 +2,7 @@
 - 🌱 PHP / C
 - 💞️ movie movie movie
 - 📫 crynocry97@gmail.com
-- ✨ https://crynocry.cn/
+- ✨ http://crynocry.cn/
 
 <!---
 NeverRetrun/NeverRetrun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
